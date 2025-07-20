@@ -1,0 +1,73 @@
+
+*{
+    background-color: beige;
+}
+h1{
+    color: white;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+      color: white;
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+h3{
+      color: white;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+h4{
+      color: white;
+    background-color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    ;
+    
+}
+h5{
+      color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h6{
+      color: white;
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+#para1{
+    color: green;
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+#para2{
+    color: red;
+    background-color: beige;
+    
+}
+#para3{
+    color: white;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#para4{
+    color: brown;
+    background-color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#para5{
+    color: white;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#para6{  
+    color: green;
+    background-color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
